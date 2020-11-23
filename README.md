@@ -8,4 +8,4 @@ After your games have ended the scores will be shown and you will be asked to pl
 
 
 Feel free to re-create the project but please do not copy line for line.
-Copyright 2020 aaroncoding1
+Copyright 2020 mellomr
